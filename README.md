@@ -1,2 +1,2 @@
 # fetchapidata
-Pulls API and stores it in a json file
+Pulls API Data and stores data in a json file. 
